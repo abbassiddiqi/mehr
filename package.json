@@ -5,9 +5,15 @@
   "main": "mehr-font.css",
   "keywords": [
     "Mehr",
+    "Nastaliq",
     "Urdu",
+    "Web",
     "Font"
   ],
   "author": "Abbas Siddiqi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbassiddiqi/mehr.git"
+  },
   "license": "MIT"
 }
