@@ -7,6 +7,10 @@
 
 A simple package providing the [Mehr Nastaliq Web](http://csalt.itu.edu.pk/urdufont/) fontface. The font was created by Muhammad Zeeshan Nasar following the calligraphy of Nasrullah Mehr.
 
+<p align='center'>
+<img src='https://cdn.rawgit.com/abbassiddiqi/mehr/ee8eb4df/sample.png' width='400' alt='mehr sample'>
+</p>
+
 ## Features
 - Faster rendering speed as compared to other Nastaliq fonts
 - OTF Font file size reduced up to an amazing 108 kb only
