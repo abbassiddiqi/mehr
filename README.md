@@ -5,10 +5,10 @@
 [![font version](https://img.shields.io/badge/font_version-1.0_beta-blue.svg)]()
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?colorB=9b59b6)](http://opensource.org/licenses/MIT)
 
-A simple package providing the [Mehr Nastaliq Web](http://csalt.itu.edu.pk/urdufont/) fontface. The font was created by Muhammad Zeeshan Nasar following the calligraphy of Nasrullah Mehr.
+A simple package providing the [Mehr Nastaliq Web](http://csalt.itu.edu.pk/urdufont/) font-face. The font was created by Muhammad Zeeshan Nasar following the calligraphy of Nasrullah Mehr.
 
 <p align='center'>
-<img src='https://cdn.rawgit.com/abbassiddiqi/mehr/ee8eb4df/sample.png' width='400' alt='mehr sample'>
+<img src='https://cdn.rawgit.com/abbassiddiqi/mehr/ee8eb4df/sample.png' width='370' alt='mehr sample'>
 </p>
 
 ## Features
@@ -24,7 +24,7 @@ A simple package providing the [Mehr Nastaliq Web](http://csalt.itu.edu.pk/urduf
 
 Assuming you have [NodeJS](http://nodejs.org/), [NPM](https://www.npmjs.com/) and [Bower](http://bower.io/) installed globally just open up a terminal, navigate to your projects root directory and then execute
 
-```
+```sh
 # install via NPM
 $ npm install mehr --save
 
@@ -33,15 +33,17 @@ $ bower install mehr --save
 ```
 
 ## Usage
-Just link provided CSS file to your page:
+```html
+<!-- Just add the following stylesheet link to your html file: -->
+<link rel="stylesheet" href="https://unpkg.com/mehr/mehr-font.css">
+```
 
-`<link rel="stylesheet" href="https://unpkg.com/mehr/mehr-font.css">`
+```css
+/* or import font stylesheet from within your css file */
+@import url(//unpkg.com/mehr/mehr-font.css);
+```
 
-or import it via your css file
-
-`@import url(//unpkg.com/mehr/mehr-font.css);`
-
-Then use provided font-faces it in your CSS:
+Then use provided font-face it in your CSS:
 
 ```css
 h1 {
@@ -54,4 +56,4 @@ p.quote {
 ```
 
 ## License
-This package is available under [the MIT license](https://github.com/abbassiddiqi/mehr/blob/master/LICENSE) and the Mehr Nastaliq Web Font is available under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/)
+This package is available under the [MIT license](https://github.com/abbassiddiqi/mehr/blob/master/LICENSE) and the Mehr Nastaliq Web font is available under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
