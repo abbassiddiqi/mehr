@@ -2,7 +2,7 @@
 
 [![npm version](http://img.shields.io/npm/v/mehr.svg?style=flat)](https://npmjs.org/package/mehr "View this project on npm")
 [![npm](https://img.shields.io/npm/dt/mehr.svg)]()
-[![font version](https://img.shields.io/badge/font_version-1.0_beta-blue.svg)]()
+[![font version](https://img.shields.io/badge/font_version-2.0-blue.svg)]()
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?colorB=9b59b6)](http://opensource.org/licenses/MIT)
 
 A simple package providing the [Mehr Nastaliq Web](http://csalt.itu.edu.pk/urdufont/) font-face.
