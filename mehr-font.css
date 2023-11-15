@@ -4,5 +4,6 @@
 @font-face {
   font-family: 'Mehr';
   src: url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+  src: url(//unpkg.com/mehr/mehr.woff) format('woff');
   unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
 }
